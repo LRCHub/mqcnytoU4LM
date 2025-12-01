@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "THE REVO / ポルノグラフィティ covered by 棗いつき",
+  "base_artist": "棗いつき",
+  "createdAt": "2025-12-01T06:01:15.914308Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "THE REVO",
+      "artist": "ポルノグラフィティ",
+      "has_synced": true,
+      "path": "select/01_THE_REVO_ポルノグラフィティ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "REVOLT",
+      "artist": "VALSHE",
+      "has_synced": false,
+      "path": "select/pl_01_REVOLT_VALSHE.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "REVOLVER",
+      "artist": "VALSHE",
+      "has_synced": false,
+      "path": "select/pl_02_REVOLVER_VALSHE.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Revolution",
+      "artist": "VALSHE",
+      "has_synced": false,
+      "path": "select/pl_03_Revolution_VALSHE.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "REVOLVER",
+      "artist": "VALSHE",
+      "has_synced": false,
+      "path": "select/pl_04_REVOLVER_VALSHE.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "THE REVOLUTION",
+      "artist": "VALSHE",
+      "has_synced": false,
+      "path": "select/pl_05_THE_REVOLUTION_VALSHE.txt"
+    }
+  ]
+}
